@@ -15,17 +15,17 @@
 baseURL: /
 # 站点标题
 # Website title
-title: Hugo NexT
+title: Mis Notas y Apuntes
 # 主题名称
 # Theme name
 theme: hugo-theme-next
 # 站点默认的语言和代码
 # Default laguage & code for website
-defaultContentLanguage: zh-cn
-languageCode: zh-CN
+defaultContentLanguage: es-ar
+languageCode: es-AR
 # 是否包含中文，日语，韩文
 # Whether contains Chinese, Japanese and Korean
-hasCJKLanguage: true
+hasCJKLanguage: false
 # 每页显示文章数量
 # Display items per page
 paginate: 10
@@ -66,7 +66,7 @@ markup:
     # Heading title level of start or end: 1-6
     # Recommand start at 2
     startLevel: 2
-    endLevel: 4
+    endLevel: 6
 
 # 站点文章导航文件
 # Site map of all articles
@@ -108,4 +108,3 @@ enableRobotsTXT: true
 # Compress all files when output
 minify:
   minifyOutput: true
-  
